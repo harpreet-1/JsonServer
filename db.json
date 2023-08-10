@@ -1,5 +1,6 @@
 {
   "user": [{ "name": "sahbaj" }],
   "movies": [{ "name": "hero" }],
-  "cart": [{ "product": "laptop" }]
+  "cart": [{ "product": "laptop" }],
+  "pr": [{ "product": "laptop" }]
 }
