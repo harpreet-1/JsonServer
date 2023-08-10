@@ -1,3 +1,4 @@
 {
-  "user": [{ "name": "sahbaj" }]
+  "user": [{ "name": "sahbaj" }],
+  "movies": [{ "name": "hero" }]
 }
